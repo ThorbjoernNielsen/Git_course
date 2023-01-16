@@ -6,4 +6,6 @@ Baking recipe for sour dough bread
 50g sour dough starter
 2g sugar
 
+Henirke was here
+
 Follow the steps in "receipes.txt"
