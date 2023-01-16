@@ -4,5 +4,6 @@ Baking recipe for sour dough bread
 300ml water
 10g salt
 50g sour dough starter
+2g sugar
 
 Follow the steps in "receipes.txt"
