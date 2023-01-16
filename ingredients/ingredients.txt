@@ -8,6 +8,4 @@ Baking recipe for sour dough bread
 5x Love
 
 
-Henirke was here
-
 Follow the steps in "receipes.txt"
