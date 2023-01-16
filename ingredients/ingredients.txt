@@ -5,4 +5,4 @@ Baking recipe for sour dough bread
 10g salt
 50g sour dough starter
 
-
+Follow the steps in "receipes.txt"
